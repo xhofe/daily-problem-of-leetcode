@@ -28,7 +28,7 @@ jobs:
           git add README.md
           git config --local user.email "i@nn.ci"
           git config --local user.name "Xhofe"
-          git commit --allow-empty -m "Update readme for ${{ github.event.commits[0][message] }}" -a
+          git commit --allow-empty -m "Update readme for ${{ github.event.commits[0].message }}" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
