@@ -36,3 +36,4 @@
 - 05: [longest-uncommon-subsequence-i](./2022/03/05-longest-uncommon-subsequence-i.cpp) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
 - 06: [find-good-days-to-rob-the-bank](./2022/03/06-find-good-days-to-rob-the-bank.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/)
 - 08: [plates-between-candles](./2022/03/08-plates-between-candles.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/plates-between-candles/)
+- 09: [smallest-rotation-with-highest-score](./2022/03/09-smallest-rotation-with-highest-score.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
