@@ -39,3 +39,4 @@
 - 09: [smallest-rotation-with-highest-score](./2022/03/09-smallest-rotation-with-highest-score.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
 - 10: [n-ary-tree-preorder-traversal](./2022/03/10-n-ary-tree-preorder-traversal.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
 - 11: [count-nodes-with-the-highest-score](./2022/03/11-count-nodes-with-the-highest-score.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/)
+- 12: [n-ary-tree-postorder-traversal](./2022/03/12-n-ary-tree-postorder-traversal.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
