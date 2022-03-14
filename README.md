@@ -41,3 +41,4 @@
 - 11: [count-nodes-with-the-highest-score](./2022/03/11-count-nodes-with-the-highest-score.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/)
 - 12: [n-ary-tree-postorder-traversal](./2022/03/12-n-ary-tree-postorder-traversal.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 - 13: [utf-8-validation](./2022/03/13-utf-8-validation.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/utf-8-validation/)
+- 14: [minimum-index-sum-of-two-lists](./2022/03/14-minimum-index-sum-of-two-lists.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
