@@ -9,6 +9,7 @@
 
 ## 2022
 ### 01
+- 01: [convert-1d-array-into-2d-array](./2022/01/01-convert-1d-array-into-2d-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/)
 - 22: [remove-palindromic-subsequences](./2022/01/22-remove-palindromic-subsequences.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)
 ### 02
 - 04: [number-of-rectangles-that-can-form-the-largest-square](./2022/02/04-number-of-rectangles-that-can-form-the-largest-square.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
