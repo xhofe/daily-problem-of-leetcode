@@ -45,3 +45,4 @@
 - 14: [minimum-index-sum-of-two-lists](./2022/03/14-minimum-index-sum-of-two-lists.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
 - 15: [count-number-of-maximum-bitwise-or-subsets](./2022/03/15-count-number-of-maximum-bitwise-or-subsets.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/)
 - 16: [all-oone-data-structure](./2022/03/16-all-oone-data-structure.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/all-oone-data-structure/)
+- 17: [longest-word-in-dictionary](./2022/03/17-longest-word-in-dictionary.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
