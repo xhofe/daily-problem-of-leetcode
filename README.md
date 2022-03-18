@@ -47,3 +47,4 @@
 - 15: [count-number-of-maximum-bitwise-or-subsets](./2022/03/15-count-number-of-maximum-bitwise-or-subsets.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/)
 - 16: [all-oone-data-structure](./2022/03/16-all-oone-data-structure.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/all-oone-data-structure/)
 - 17: [longest-word-in-dictionary](./2022/03/17-longest-word-in-dictionary.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
+- 18: [simple-bank-system](./2022/03/18-simple-bank-system.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/simple-bank-system/)
