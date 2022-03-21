@@ -50,3 +50,4 @@
 - 18: [simple-bank-system](./2022/03/18-simple-bank-system.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/simple-bank-system/)
 - 19: [construct-string-from-binary-tree](./2022/03/19-construct-string-from-binary-tree.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 - 20: [the-time-when-the-network-becomes-idle](./2022/03/20-the-time-when-the-network-becomes-idle.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/)
+- 21: [two-sum-iv-input-is-a-bst](./2022/03/21-two-sum-iv-input-is-a-bst.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
