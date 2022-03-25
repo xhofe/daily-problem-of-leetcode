@@ -54,3 +54,4 @@
 - 22: [remove-colored-pieces-if-both-neighbors-are-the-same-color](./2022/03/22-remove-colored-pieces-if-both-neighbors-are-the-same-color.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)
 - 23: [k-th-smallest-in-lexicographical-order](./2022/03/23-k-th-smallest-in-lexicographical-order.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)
 - 24: [image-smoother](./2022/03/24-image-smoother.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/image-smoother/)
+- 25: [factorial-trailing-zeroes](./2022/03/25-factorial-trailing-zeroes.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
