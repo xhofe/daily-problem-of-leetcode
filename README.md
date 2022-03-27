@@ -56,3 +56,4 @@
 - 24: [image-smoother](./2022/03/24-image-smoother.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/image-smoother/)
 - 25: [factorial-trailing-zeroes](./2022/03/25-factorial-trailing-zeroes.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
 - 26: [baseball-game](./2022/03/26-baseball-game.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/baseball-game/)
+- 27: [find-missing-observations](./2022/03/27-find-missing-observations.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-missing-observations/)
