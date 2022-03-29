@@ -18,3 +18,5 @@ impl Solution {
         return max_consecutive_char(answer_key.as_bytes(), k, b'T').max(max_consecutive_char(answer_key.as_bytes(), k, b'F'));
     }
 }
+
+// 滑动窗口：窗口中最多有k个'T'或'F'
