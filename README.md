@@ -60,3 +60,5 @@
 - 28: [binary-number-with-alternating-bits](./2022/03/28-binary-number-with-alternating-bits.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
 - 29: [maximize-the-confusion-of-an-exam](./2022/03/29-maximize-the-confusion-of-an-exam.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/)
 - 31: [self-dividing-numbers](./2022/03/31-self-dividing-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/self-dividing-numbers/)
+### 04
+- 01: [array-of-doubled-pairs](./2022/04/01-array-of-doubled-pairs.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/array-of-doubled-pairs/)
