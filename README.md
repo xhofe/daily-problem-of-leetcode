@@ -62,3 +62,4 @@
 - 31: [self-dividing-numbers](./2022/03/31-self-dividing-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/self-dividing-numbers/)
 ### 04
 - 01: [array-of-doubled-pairs](./2022/04/01-array-of-doubled-pairs.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/array-of-doubled-pairs/)
+- 03: [find-smallest-letter-greater-than-target](./2022/04/03-find-smallest-letter-greater-than-target.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)
