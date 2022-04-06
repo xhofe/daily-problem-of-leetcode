@@ -37,7 +37,7 @@ func monthStr(year, month string) string {
 	if err != nil {
 		log.Fatal(err)
 	}
-	for _, problem := range problems {
+	for _, problem := range reverse(problems) {
 		str += problemStr(year, month, problem.Name())
 	}
 	return str
@@ -50,10 +50,17 @@ func yearStr(year string) string {
 	if err != nil {
 		log.Fatal(err)
 	}
-	for _, month := range months {
+	for _, month := range reverse(months) {
 		str += monthStr(year, month.Name())
 	}
 	return str
+}
+
+func reverse[T any](arr []T) []T {
+	for i, j := 0, len(arr)-1; i < j; i, j = i+1, j-1 {
+		arr[i], arr[j] = arr[j], arr[i]
+	}
+	return arr
 }
 
 func main() {
@@ -63,7 +70,7 @@ func main() {
 		log.Fatal(err)
 	}
 	yearRegexp := regexp.MustCompile("^\\d{4}$")
-	for _, year := range years {
+	for _, year := range reverse(years) {
 		if year.IsDir() && yearRegexp.Match([]byte(year.Name())) {
 			readme += yearStr(year.Name())
 		}
