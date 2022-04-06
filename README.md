@@ -64,3 +64,4 @@
 - 01: [array-of-doubled-pairs](./2022/04/01-array-of-doubled-pairs.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/array-of-doubled-pairs/)
 - 03: [find-smallest-letter-greater-than-target](./2022/04/03-find-smallest-letter-greater-than-target.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)
 - 05: [prime-number-of-set-bits-in-binary-representation](./2022/04/05-prime-number-of-set-bits-in-binary-representation.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
+- 06: [minimum-height-trees](./2022/04/06-minimum-height-trees.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-height-trees/)
