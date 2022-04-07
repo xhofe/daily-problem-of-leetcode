@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 07: [rotate-string](./2022/04/07-rotate-string.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/rotate-string/)
 - 06: [minimum-height-trees](./2022/04/06-minimum-height-trees.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-height-trees/)
 - 05: [prime-number-of-set-bits-in-binary-representation](./2022/04/05-prime-number-of-set-bits-in-binary-representation.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - 03: [find-smallest-letter-greater-than-target](./2022/04/03-find-smallest-letter-greater-than-target.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)
