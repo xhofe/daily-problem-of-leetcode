@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 10: [unique-morse-code-words](./2022/04/10-unique-morse-code-words.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/unique-morse-code-words/)
 - 09: [reaching-points](./2022/04/09-reaching-points.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/reaching-points/)
 - 08: [n-ary-tree-level-order-traversal](./2022/04/08-n-ary-tree-level-order-traversal.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
 - 07: [rotate-string](./2022/04/07-rotate-string.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/rotate-string/)
