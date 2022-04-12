@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 12: [number-of-lines-to-write-string](./2022/04/12-number-of-lines-to-write-string.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)
 - 11: [count-numbers-with-unique-digits](./2022/04/11-count-numbers-with-unique-digits.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
 - 10: [unique-morse-code-words](./2022/04/10-unique-morse-code-words.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/unique-morse-code-words/)
 - 09: [reaching-points](./2022/04/09-reaching-points.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/reaching-points/)
