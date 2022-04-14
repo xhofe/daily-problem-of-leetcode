@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 14: [richest-customer-wealth](./2022/04/14-richest-customer-wealth.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/richest-customer-wealth/)
 - 13: [insert-delete-getrandom-o1](./2022/04/13-insert-delete-getrandom-o1.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
 - 12: [number-of-lines-to-write-string](./2022/04/12-number-of-lines-to-write-string.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)
 - 11: [count-numbers-with-unique-digits](./2022/04/11-count-numbers-with-unique-digits.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
