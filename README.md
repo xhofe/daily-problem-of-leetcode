@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 16: [largest-palindrome-product](./2022/04/16-largest-palindrome-product.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/largest-palindrome-product/)
 - 15: [mini-parser](./2022/04/15-mini-parser.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/mini-parser/)
 - 14: [richest-customer-wealth](./2022/04/14-richest-customer-wealth.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/richest-customer-wealth/)
 - 13: [insert-delete-getrandom-o1](./2022/04/13-insert-delete-getrandom-o1.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
