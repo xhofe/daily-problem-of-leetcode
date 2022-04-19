@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 19: [shortest-distance-to-a-character](./2022/04/19-shortest-distance-to-a-character.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 - 18: [lexicographical-numbers](./2022/04/18-lexicographical-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/lexicographical-numbers/)
 - 17: [most-common-word](./2022/04/17-most-common-word.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/most-common-word/)
 - 16: [largest-palindrome-product](./2022/04/16-largest-palindrome-product.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/largest-palindrome-product/)
