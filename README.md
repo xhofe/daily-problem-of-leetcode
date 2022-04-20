@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 20: [longest-absolute-file-path](./2022/04/20-longest-absolute-file-path.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/longest-absolute-file-path/)
 - 19: [shortest-distance-to-a-character](./2022/04/19-shortest-distance-to-a-character.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 - 18: [lexicographical-numbers](./2022/04/18-lexicographical-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/lexicographical-numbers/)
 - 17: [most-common-word](./2022/04/17-most-common-word.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/most-common-word/)
