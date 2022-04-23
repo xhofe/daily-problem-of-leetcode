@@ -9,6 +9,8 @@
 
 ## 2022
 ### 04
+- 23: [erect-the-fence](./2022/04/23-erect-the-fence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/erect-the-fence/)
+- 22: [rotate-function](./2022/04/22-rotate-function.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/rotate-function/)
 - 21: [goat-latin](./2022/04/21-goat-latin.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/goat-latin/)
 - 20: [longest-absolute-file-path](./2022/04/20-longest-absolute-file-path.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/longest-absolute-file-path/)
 - 19: [shortest-distance-to-a-character](./2022/04/19-shortest-distance-to-a-character.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
