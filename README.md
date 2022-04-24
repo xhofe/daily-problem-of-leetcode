@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 24: [binary-gap](./2022/04/24-binary-gap.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/binary-gap/)
 - 23: [erect-the-fence](./2022/04/23-erect-the-fence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/erect-the-fence/)
 - 22: [rotate-function](./2022/04/22-rotate-function.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/rotate-function/)
 - 21: [goat-latin](./2022/04/21-goat-latin.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/goat-latin/)
