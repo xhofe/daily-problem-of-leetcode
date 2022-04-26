@@ -9,6 +9,8 @@
 
 ## 2022
 ### 04
+- 26: [projection-area-of-3d-shapes](./2022/04/26-projection-area-of-3d-shapes.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
+- 25: [random-pick-index](./2022/04/25-random-pick-index.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/random-pick-index/)
 - 24: [binary-gap](./2022/04/24-binary-gap.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/binary-gap/)
 - 23: [erect-the-fence](./2022/04/23-erect-the-fence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/erect-the-fence/)
 - 22: [rotate-function](./2022/04/22-rotate-function.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/rotate-function/)
