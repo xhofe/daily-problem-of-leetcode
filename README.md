@@ -9,6 +9,7 @@
 
 ## 2022
 ### 04
+- 28: [sort-array-by-parity](./2022/04/28-sort-array-by-parity.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/sort-array-by-parity/)
 - 27: [pacific-atlantic-water-flow](./2022/04/27-pacific-atlantic-water-flow.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
 - 26: [projection-area-of-3d-shapes](./2022/04/26-projection-area-of-3d-shapes.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
 - 25: [random-pick-index](./2022/04/25-random-pick-index.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/random-pick-index/)
