@@ -8,7 +8,11 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2022
+### 05
+- 02: [tag-validator](./2022/05/02-tag-validator.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/tag-validator/)
+- 01: [all-elements-in-two-binary-search-trees](./2022/05/01-all-elements-in-two-binary-search-trees.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
 ### 04
+- 30: [smallest-range-i](./2022/04/30-smallest-range-i.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/smallest-range-i/)
 - 29: [construct-quad-tree](./2022/04/29-construct-quad-tree.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/construct-quad-tree/)
 - 28: [sort-array-by-parity](./2022/04/28-sort-array-by-parity.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/sort-array-by-parity/)
 - 27: [pacific-atlantic-water-flow](./2022/04/27-pacific-atlantic-water-flow.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
