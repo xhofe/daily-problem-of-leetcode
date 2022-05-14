@@ -9,6 +9,14 @@
 
 ## 2022
 ### 05
+- 14: [stickers-to-spell-word](./2022/05/14-stickers-to-spell-word.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/stickers-to-spell-word/)
+- 13: [one-away-lcci](./2022/05/13-one-away-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/one-away-lcci/)
+- 12: [delete-columns-to-make-sorted](./2022/05/12-delete-columns-to-make-sorted.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)
+- 11: [serialize-and-deserialize-bst](./2022/05/11-serialize-and-deserialize-bst.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/)
+- 09: [di-string-match](./2022/05/09-di-string-match.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/di-string-match/)
+- 08: [find-all-duplicates-in-an-array](./2022/05/08-find-all-duplicates-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
+- 07: [minimum-genetic-mutation](./2022/05/07-minimum-genetic-mutation.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
+- 06: [number-of-recent-calls](./2022/05/06-number-of-recent-calls.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/number-of-recent-calls/)
 - 05: [subarray-product-less-than-k](./2022/05/05-subarray-product-less-than-k.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
 - 04: [find-the-winner-of-the-circular-game](./2022/05/04-find-the-winner-of-the-circular-game.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)
 - 03: [reorder-data-in-log-files](./2022/05/03-reorder-data-in-log-files.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
