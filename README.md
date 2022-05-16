@@ -9,6 +9,7 @@
 
 ## 2022
 ### 05
+- 16: [successor-lcci](./2022/05/16-successor-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/successor-lcci/)
 - 15: [largest-triangle-area](./2022/05/15-largest-triangle-area.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/largest-triangle-area/)
 - 14: [stickers-to-spell-word](./2022/05/14-stickers-to-spell-word.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 - 13: [one-away-lcci](./2022/05/13-one-away-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/one-away-lcci/)
