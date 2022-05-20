@@ -9,6 +9,10 @@
 
 ## 2022
 ### 05
+- 20: [find-right-interval](./2022/05/20-find-right-interval.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-right-interval/)
+- 19: [minimum-moves-to-equal-array-elements-ii](./2022/05/19-minimum-moves-to-equal-array-elements-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)
+- 18: [kth-smallest-number-in-multiplication-table](./2022/05/18-kth-smallest-number-in-multiplication-table.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)
+- 17: [verifying-an-alien-dictionary](./2022/05/17-verifying-an-alien-dictionary.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)
 - 16: [successor-lcci](./2022/05/16-successor-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/successor-lcci/)
 - 15: [largest-triangle-area](./2022/05/15-largest-triangle-area.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/largest-triangle-area/)
 - 14: [stickers-to-spell-word](./2022/05/14-stickers-to-spell-word.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/stickers-to-spell-word/)
