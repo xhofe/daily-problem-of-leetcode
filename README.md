@@ -9,6 +9,9 @@
 
 ## 2022
 ### 05
+- 23: [cut-off-trees-for-golf-event](./2022/05/23-cut-off-trees-for-golf-event.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event/)
+- 22: [can-i-win](./2022/05/22-can-i-win.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/can-i-win/)
+- 21: [n-repeated-element-in-size-2n-array](./2022/05/21-n-repeated-element-in-size-2n-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)
 - 20: [find-right-interval](./2022/05/20-find-right-interval.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/find-right-interval/)
 - 19: [minimum-moves-to-equal-array-elements-ii](./2022/05/19-minimum-moves-to-equal-array-elements-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)
 - 18: [kth-smallest-number-in-multiplication-table](./2022/05/18-kth-smallest-number-in-multiplication-table.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)
