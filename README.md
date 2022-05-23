@@ -9,6 +9,7 @@
 
 ## 2022
 ### 05
+- 24: [univalued-binary-tree](./2022/05/24-univalued-binary-tree.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/univalued-binary-tree/)
 - 23: [cut-off-trees-for-golf-event](./2022/05/23-cut-off-trees-for-golf-event.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event/)
 - 22: [can-i-win](./2022/05/22-can-i-win.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/can-i-win/)
 - 21: [n-repeated-element-in-size-2n-array](./2022/05/21-n-repeated-element-in-size-2n-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)
