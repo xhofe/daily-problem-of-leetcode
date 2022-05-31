@@ -9,6 +9,7 @@
 
 ## 2022
 ### 05
+- 31: [Jf1JuT](./2022/05/31-Jf1JuT.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/Jf1JuT/)
 - 30: [sum-of-root-to-leaf-binary-numbers](./2022/05/30-sum-of-root-to-leaf-binary-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/)
 - 29: [validate-ip-address](./2022/05/29-validate-ip-address.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/validate-ip-address/)
 - 28: [remove-outermost-parentheses](./2022/05/28-remove-outermost-parentheses.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
