@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 03: [consecutive-numbers-sum](./2022/06/03-consecutive-numbers-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/consecutive-numbers-sum/)
 - 02: [delete-node-in-a-bst](./2022/06/02-delete-node-in-a-bst.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 - 01: [matchsticks-to-square](./2022/06/01-matchsticks-to-square.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/matchsticks-to-square/)
 ### 05
