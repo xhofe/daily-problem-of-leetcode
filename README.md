@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 02: [delete-node-in-a-bst](./2022/06/02-delete-node-in-a-bst.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
 - 01: [matchsticks-to-square](./2022/06/01-matchsticks-to-square.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/matchsticks-to-square/)
 ### 05
 - 31: [Jf1JuT](./2022/05/31-Jf1JuT.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/Jf1JuT/)
