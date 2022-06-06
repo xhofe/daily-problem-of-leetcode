@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 06: [my-calendar-iii](./2022/06/06-my-calendar-iii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/my-calendar-iii/)
 - 05: [generate-random-point-in-a-circle](./2022/06/05-generate-random-point-in-a-circle.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)
 - 04: [unique-email-addresses](./2022/06/04-unique-email-addresses.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/unique-email-addresses/)
 - 03: [consecutive-numbers-sum](./2022/06/03-consecutive-numbers-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/consecutive-numbers-sum/)
