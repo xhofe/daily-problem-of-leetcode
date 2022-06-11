@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 11: [flip-string-to-monotone-increasing](./2022/06/11-flip-string-to-monotone-increasing.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)
 - 10: [count-different-palindromic-subsequences](./2022/06/10-count-different-palindromic-subsequences.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)
 - 09: [random-point-in-non-overlapping-rectangles](./2022/06/09-random-point-in-non-overlapping-rectangles.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/)
 - 08: [valid-boomerang](./2022/06/08-valid-boomerang.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/valid-boomerang/)
