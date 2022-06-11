@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 10: [count-different-palindromic-subsequences](./2022/06/10-count-different-palindromic-subsequences.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)
 - 09: [random-point-in-non-overlapping-rectangles](./2022/06/09-random-point-in-non-overlapping-rectangles.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/)
 - 08: [valid-boomerang](./2022/06/08-valid-boomerang.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/valid-boomerang/)
 - 07: [koko-eating-bananas](./2022/06/07-koko-eating-bananas.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/koko-eating-bananas/)
