@@ -25,7 +25,7 @@ func problemStr(year, month, filename string) string {
 	day := filename[:2]
 	name := filename[3:]
 	name = name[:strings.LastIndex(name, ".")]
-	return fmt.Sprintf(`- %s: [%s](./%s/%s/%s) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode-cn.com/problems/%s/)
+	return fmt.Sprintf(`- %s: [%s](./%s/%s/%s) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/%s/)
 `,
 		day, name, year, month, filename, name)
 }
