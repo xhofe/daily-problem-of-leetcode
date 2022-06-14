@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 14: [diagonal-traverse](./2022/06/14-diagonal-traverse.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/diagonal-traverse/)
 - 13: [height-checker](./2022/06/13-height-checker.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/height-checker/)
 - 12: [find-and-replace-pattern](./2022/06/12-find-and-replace-pattern.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-and-replace-pattern/)
 - 11: [flip-string-to-monotone-increasing](./2022/06/11-flip-string-to-monotone-increasing.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)
