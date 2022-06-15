@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 16: [k-diff-pairs-in-an-array](./2022/06/16-k-diff-pairs-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)
 - 15: [find-k-th-smallest-pair-distance](./2022/06/15-find-k-th-smallest-pair-distance.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)
 - 14: [diagonal-traverse](./2022/06/14-diagonal-traverse.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/diagonal-traverse/)
 - 13: [height-checker](./2022/06/13-height-checker.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/height-checker/)
