@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 18: [4ueAj6](./2022/06/18-4ueAj6.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/4ueAj6/)
 - 17: [duplicate-zeros](./2022/06/17-duplicate-zeros.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/duplicate-zeros/)
 - 16: [k-diff-pairs-in-an-array](./2022/06/16-k-diff-pairs-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)
 - 15: [find-k-th-smallest-pair-distance](./2022/06/15-find-k-th-smallest-pair-distance.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)
