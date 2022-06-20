@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 20: [range-module](./2022/06/20-range-module.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/range-module/)
 - 19: [most-frequent-subtree-sum](./2022/06/19-most-frequent-subtree-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/most-frequent-subtree-sum/)
 - 18: [4ueAj6](./2022/06/18-4ueAj6.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/4ueAj6/)
 - 17: [duplicate-zeros](./2022/06/17-duplicate-zeros.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/duplicate-zeros/)
