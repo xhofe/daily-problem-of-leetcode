@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 22: [find-bottom-left-tree-value](./2022/06/22-find-bottom-left-tree-value.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-bottom-left-tree-value/)
 - 21: [defanging-an-ip-address](./2022/06/21-defanging-an-ip-address.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/defanging-an-ip-address/)
 - 20: [range-module](./2022/06/20-range-module.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/range-module/)
 - 19: [most-frequent-subtree-sum](./2022/06/19-most-frequent-subtree-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/most-frequent-subtree-sum/)
