@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 25: [JEj789](./2022/06/25-JEj789.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/JEj789/)
 - 24: [find-largest-value-in-each-tree-row](./2022/06/24-find-largest-value-in-each-tree-row.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
 - 23: [substring-with-concatenation-of-all-words](./2022/06/23-substring-with-concatenation-of-all-words.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/)
 - 22: [find-bottom-left-tree-value](./2022/06/22-find-bottom-left-tree-value.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-bottom-left-tree-value/)
