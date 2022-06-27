@@ -9,6 +9,7 @@
 
 ## 2022
 ### 06
+- 27: [longest-uncommon-subsequence-ii](./2022/06/27-longest-uncommon-subsequence-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
 - 26: [random-pick-with-blacklist](./2022/06/26-random-pick-with-blacklist.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/random-pick-with-blacklist/)
 - 25: [JEj789](./2022/06/25-JEj789.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/JEj789/)
 - 24: [find-largest-value-in-each-tree-row](./2022/06/24-find-largest-value-in-each-tree-row.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)
