@@ -8,6 +8,8 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2022
+### 07
+- 02: [minimum-number-of-refueling-stops](./2022/07/02-minimum-number-of-refueling-stops.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-number-of-refueling-stops/)
 ### 06
 - 27: [longest-uncommon-subsequence-ii](./2022/06/27-longest-uncommon-subsequence-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
 - 26: [random-pick-with-blacklist](./2022/06/26-random-pick-with-blacklist.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/random-pick-with-blacklist/)
