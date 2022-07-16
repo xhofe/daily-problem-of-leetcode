@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 08: [minimum-cost-to-move-chips-to-the-same-position](./2022/07/08-minimum-cost-to-move-chips-to-the-same-position.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/)
 - 07: [replace-words](./2022/07/07-replace-words.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/replace-words/)
 - 05: [my-calendar-i](./2022/07/05-my-calendar-i.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/my-calendar-i/)
 - 04: [minimum-absolute-difference](./2022/07/04-minimum-absolute-difference.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-absolute-difference/)
