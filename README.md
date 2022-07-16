@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 14: [prefix-and-suffix-search](./2022/07/14-prefix-and-suffix-search.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/prefix-and-suffix-search/)
 - 12: [cells-with-odd-values-in-a-matrix](./2022/07/12-cells-with-odd-values-in-a-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/)
 - 11: [implement-magic-dictionary](./2022/07/11-implement-magic-dictionary.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/implement-magic-dictionary/)
 - 09: [length-of-longest-fibonacci-subsequence](./2022/07/09-length-of-longest-fibonacci-subsequence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)
