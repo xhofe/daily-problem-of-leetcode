@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 11: [implement-magic-dictionary](./2022/07/11-implement-magic-dictionary.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/implement-magic-dictionary/)
 - 09: [length-of-longest-fibonacci-subsequence](./2022/07/09-length-of-longest-fibonacci-subsequence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)
 - 08: [minimum-cost-to-move-chips-to-the-same-position](./2022/07/08-minimum-cost-to-move-chips-to-the-same-position.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/)
 - 07: [replace-words](./2022/07/07-replace-words.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/replace-words/)
