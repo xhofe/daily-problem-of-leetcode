@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 20: [shift-2d-grid](./2022/07/20-shift-2d-grid.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/shift-2d-grid/)
 - 19: [my-calendar-ii](./2022/07/19-my-calendar-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/my-calendar-ii/)
 - 17: [array-nesting](./2022/07/17-array-nesting.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/array-nesting/)
 - 16: [qIsx9U](./2022/07/16-qIsx9U.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/qIsx9U/)
