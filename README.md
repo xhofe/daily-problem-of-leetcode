@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 31: [maximum-level-sum-of-a-binary-tree](./2022/07/31-maximum-level-sum-of-a-binary-tree.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/)
 - 28: [rank-transform-of-an-array](./2022/07/28-rank-transform-of-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/rank-transform-of-an-array/)
 - 25: [complete-binary-tree-inserter](./2022/07/25-complete-binary-tree-inserter.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/complete-binary-tree-inserter/)
 - 24: [distance-between-bus-stops](./2022/07/24-distance-between-bus-stops.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/distance-between-bus-stops/)
