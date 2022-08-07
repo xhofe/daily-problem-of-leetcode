@@ -9,6 +9,7 @@
 
 ## 2022
 ### 08
+- 03: [orderly-queue](./2022/08/03-orderly-queue.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/orderly-queue/)
 - 02: [design-circular-queue](./2022/08/02-design-circular-queue.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/design-circular-queue/)
 - 01: [generate-a-string-with-characters-that-have-odd-counts](./2022/08/01-generate-a-string-with-characters-that-have-odd-counts.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/)
 ### 07
