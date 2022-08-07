@@ -9,6 +9,7 @@
 
 ## 2022
 ### 07
+- 28: [rank-transform-of-an-array](./2022/07/28-rank-transform-of-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/rank-transform-of-an-array/)
 - 25: [complete-binary-tree-inserter](./2022/07/25-complete-binary-tree-inserter.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/complete-binary-tree-inserter/)
 - 24: [distance-between-bus-stops](./2022/07/24-distance-between-bus-stops.go) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/distance-between-bus-stops/)
 - 23: [ur2n8P](./2022/07/23-ur2n8P.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/ur2n8P/)
