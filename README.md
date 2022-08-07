@@ -9,6 +9,7 @@
 
 ## 2022
 ### 08
+- 07: [exclusive-time-of-functions](./2022/08/07-exclusive-time-of-functions.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/exclusive-time-of-functions/)
 - 06: [string-matching-in-an-array](./2022/08/06-string-matching-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/string-matching-in-an-array/)
 - 05: [add-one-row-to-tree](./2022/08/05-add-one-row-to-tree.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/add-one-row-to-tree/)
 - 04: [minimum-subsequence-in-non-increasing-order](./2022/08/04-minimum-subsequence-in-non-increasing-order.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/)
