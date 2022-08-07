@@ -8,6 +8,8 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2022
+### 08
+- 01: [generate-a-string-with-characters-that-have-odd-counts](./2022/08/01-generate-a-string-with-characters-that-have-odd-counts.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/)
 ### 07
 - 31: [maximum-level-sum-of-a-binary-tree](./2022/07/31-maximum-level-sum-of-a-binary-tree.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/)
 - 28: [rank-transform-of-an-array](./2022/07/28-rank-transform-of-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/rank-transform-of-an-array/)
