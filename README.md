@@ -7,6 +7,9 @@
 
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
+## 2023
+### 04
+- 20: [make-array-strictly-increasing](./2023/04/20-make-array-strictly-increasing.py) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/make-array-strictly-increasing/)
 ## 2022
 ### 08
 - 09: [minimum-value-to-get-positive-step-by-step-sum](./2022/08/09-minimum-value-to-get-positive-step-by-step-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)
