@@ -8,6 +8,8 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2023
+### 05
+- 24: [frog-position-after-t-seconds](./2023/05/24-frog-position-after-t-seconds.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/frog-position-after-t-seconds/)
 ### 04
 - 20: [make-array-strictly-increasing](./2023/04/20-make-array-strictly-increasing.py) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/make-array-strictly-increasing/)
 ## 2022
