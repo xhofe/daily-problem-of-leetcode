@@ -9,6 +9,7 @@
 
 ## 2023
 ### 05
+- 30: [delete-nodes-and-return-forest](./2023/05/30-delete-nodes-and-return-forest.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/delete-nodes-and-return-forest/)
 - 26: [shortest-path-in-binary-matrix](./2023/05/26-shortest-path-in-binary-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)
 - 25: [odd-string-difference](./2023/05/25-odd-string-difference.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/odd-string-difference/)
 - 24: [frog-position-after-t-seconds](./2023/05/24-frog-position-after-t-seconds.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/frog-position-after-t-seconds/)
