@@ -8,6 +8,8 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2023
+### 06
+- 01: [maximum-tastiness-of-candy-basket](./2023/06/01-maximum-tastiness-of-candy-basket.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/)
 ### 05
 - 30: [delete-nodes-and-return-forest](./2023/05/30-delete-nodes-and-return-forest.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/delete-nodes-and-return-forest/)
 - 26: [shortest-path-in-binary-matrix](./2023/05/26-shortest-path-in-binary-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)
