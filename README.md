@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 02: [count-vowel-strings-in-rangessubmissions](./2023/06/02-count-vowel-strings-in-rangessubmissions.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/count-vowel-strings-in-rangessubmissions/)
 - 01: [maximum-tastiness-of-candy-basket](./2023/06/01-maximum-tastiness-of-candy-basket.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/)
 ### 05
 - 30: [delete-nodes-and-return-forest](./2023/05/30-delete-nodes-and-return-forest.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/delete-nodes-and-return-forest/)
