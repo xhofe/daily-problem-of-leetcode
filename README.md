@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 06: [equal-row-and-column-pairs](./2023/06/06-equal-row-and-column-pairs.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/equal-row-and-column-pairs/)
 - 05: [apply-operations-to-an-array](./2023/06/05-apply-operations-to-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/apply-operations-to-an-array/)
 - 04: [number-of-distinct-averages](./2023/06/04-number-of-distinct-averages.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/number-of-distinct-averages/)
 - 02: [count-vowel-strings-in-rangessubmissions](./2023/06/02-count-vowel-strings-in-rangessubmissions.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/count-vowel-strings-in-rangessubmissions/)
