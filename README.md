@@ -9,6 +9,8 @@
 
 ## 2023
 ### 06
+- 20: [minimum-cost-to-connect-two-groups-of-points](./2023/06/20-minimum-cost-to-connect-two-groups-of-points.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)
+- 19: [greatest-sum-divisible-by-three](./2023/06/19-greatest-sum-divisible-by-three.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/greatest-sum-divisible-by-three/)
 - 07: [mice-and-cheese](./2023/06/07-mice-and-cheese.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/mice-and-cheese/)
 - 06: [equal-row-and-column-pairs](./2023/06/06-equal-row-and-column-pairs.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/equal-row-and-column-pairs/)
 - 05: [apply-operations-to-an-array](./2023/06/05-apply-operations-to-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/apply-operations-to-an-array/)
