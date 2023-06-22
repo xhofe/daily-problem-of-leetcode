@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 22: [pond-sizes-lcci](./2023/06/22-pond-sizes-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/pond-sizes-lcci/)
 - 21: [fHi6rV](./2023/06/21-fHi6rV.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/fHi6rV/)
 - 20: [minimum-cost-to-connect-two-groups-of-points](./2023/06/20-minimum-cost-to-connect-two-groups-of-points.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-cost-to-connect-two-groups-of-points/)
 - 19: [greatest-sum-divisible-by-three](./2023/06/19-greatest-sum-divisible-by-three.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/greatest-sum-divisible-by-three/)
