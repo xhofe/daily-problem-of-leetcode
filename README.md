@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 26: [find-the-pivot-integer](./2023/06/26-find-the-pivot-integer.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-the-pivot-integer/)
 - 23: [maximum-value-of-a-string-in-an-array](./2023/06/23-maximum-value-of-a-string-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/)
 - 22: [pond-sizes-lcci](./2023/06/22-pond-sizes-lcci.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/pond-sizes-lcci/)
 - 21: [fHi6rV](./2023/06/21-fHi6rV.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/fHi6rV/)
