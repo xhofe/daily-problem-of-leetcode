@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 28: [minimum-incompatibility](./2023/06/28-minimum-incompatibility.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-incompatibility/)
 - 27: [maximum-subarray-sum-with-one-deletion](./2023/06/27-maximum-subarray-sum-with-one-deletion.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/)
 - 26: [find-the-pivot-integer](./2023/06/26-find-the-pivot-integer.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/find-the-pivot-integer/)
 - 23: [maximum-value-of-a-string-in-an-array](./2023/06/23-maximum-value-of-a-string-in-an-array.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/)
