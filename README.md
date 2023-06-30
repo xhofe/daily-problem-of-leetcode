@@ -9,6 +9,7 @@
 
 ## 2023
 ### 06
+- 30: [circular-sentence](./2023/06/30-circular-sentence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/circular-sentence/)
 - 29: [reconstruct-a-2-row-binary-matrix](./2023/06/29-reconstruct-a-2-row-binary-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/)
 - 28: [minimum-incompatibility](./2023/06/28-minimum-incompatibility.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/minimum-incompatibility/)
 - 27: [maximum-subarray-sum-with-one-deletion](./2023/06/27-maximum-subarray-sum-with-one-deletion.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/)
