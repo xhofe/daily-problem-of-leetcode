@@ -8,6 +8,8 @@
 ![records](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/xhofe.svg)
 
 ## 2023
+### 07
+- 01: [two-sum](./2023/07/01-two-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/two-sum/)
 ### 06
 - 30: [circular-sentence](./2023/06/30-circular-sentence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/circular-sentence/)
 - 29: [reconstruct-a-2-row-binary-matrix](./2023/06/29-reconstruct-a-2-row-binary-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/)
