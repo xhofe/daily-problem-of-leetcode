@@ -9,6 +9,7 @@
 
 ## 2023
 ### 07
+- 02: [add-two-numbers](./2023/07/02-add-two-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/add-two-numbers/)
 - 01: [two-sum](./2023/07/01-two-sum.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/two-sum/)
 ### 06
 - 30: [circular-sentence](./2023/06/30-circular-sentence.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/circular-sentence/)
