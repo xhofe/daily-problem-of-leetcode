@@ -9,6 +9,7 @@
 
 ## 2023
 ### 07
+- 05: [maximum-split-of-positive-even-integers](./2023/07/05-maximum-split-of-positive-even-integers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/)
 - 04: [sum-in-a-matrix](./2023/07/04-sum-in-a-matrix.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/sum-in-a-matrix/)
 - 03: [add-two-numbers-ii](./2023/07/03-add-two-numbers-ii.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/add-two-numbers-ii/)
 - 02: [add-two-numbers](./2023/07/02-add-two-numbers.rs) [![leetcode](https://img.shields.io/badge/-link-38B2AC?logo=leetcode)](https://leetcode.cn/problems/add-two-numbers/)
